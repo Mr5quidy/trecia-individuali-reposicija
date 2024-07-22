@@ -1,7 +1,7 @@
 
 # My first README file
 
-Mano trecia individuali reposicija naudojant .gitignore
+Mano trecia individuali repozitorija naudojant .gitignore
 
 
 ## Authors
