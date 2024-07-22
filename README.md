@@ -1,0 +1,1 @@
+# Mano trecia individuali reposicija naudojant .gitignore
